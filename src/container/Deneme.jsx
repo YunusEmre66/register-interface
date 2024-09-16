@@ -5,6 +5,7 @@ const Deneme = () => {
         firstName: '',
         birthDate: '',
         lastName: '',
+        
         gender: '',
         email: '',
         password: '',
